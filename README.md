@@ -1,4 +1,4 @@
-### 👋 Hi! I'm a Mechatronics Engineer who loves solving problems with code, circuits and a bit of coffee.
+### 👋 Hi! I'm an Engineer who loves solving problems with code, circuits, and a bit of coffee.
 
 I’m passionate about building things that actually *work* — from automated access systems and writing code to configuring networks and creating tools that make sense of data.
 
