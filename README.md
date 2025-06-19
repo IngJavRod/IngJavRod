@@ -12,7 +12,7 @@ I’m passionate about building things that actually work — from automated acc
 - Turning small ideas into working prototypes  
 - Extras I enjoy: Python · C++ · Arduino · Packet Tracer
 
-🔌 I’ve always enjoyed the blend of code and electronics, but lately I’ve been focused on building complete web applications — from responsive UIs to secure APIs and data-powered backends.
+🔌 I’ve always enjoyed the blend of code and electronics, but lately I’ve shifted my focus from circuits to full stack web projects.
 
 🛠️ Tech I’ve been using lately:  
 JavaScript · HTML · CSS · Python · Node.js · SQL · Excel · Tableau · Packet Tracer · Arduino
